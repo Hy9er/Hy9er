@@ -10,7 +10,7 @@
   - [Cash Dasher](https://github.com/CGDD-4203-Group-4/SlashDasher) <b></b>
 - <b>Nuclear Reactor Simulator</b>
   - This project was an educational game I worked on that was meant to show how a specific nuclear reactor worked
-  - [NuclearSimProject]([https://github.com/CGDD-4203-Group-4/SlashDasher](https://github.com/Hy9er/NuclearSimProject)) <b></b>
+  - [NuclearSimProject](https://github.com/Hy9er/NuclearSimProject) <b></b>
 
 
 <
