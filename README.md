@@ -8,7 +8,9 @@
 - <b>Endless runner</b>
   - This project was a mobile game I worked on with 4 other people for Android devices
   - [Cash Dasher](https://github.com/CGDD-4203-Group-4/SlashDasher) <b></b>
-
+- <b>Nuclear Reactor Simulator</b>
+  - This project was an educational game I worked on that was meant to show how a specific nuclear reactor worked
+  - [NuclearSimProject](https://github.com/CGDD-4203-Group-4/SlashDasher) <b></b>
 
 
 <
